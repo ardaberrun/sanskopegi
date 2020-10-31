@@ -1,6 +1,8 @@
 # ŞANS KOPEĞİ (LUCK DOG)
 
-A new Flutter application.
+A new and basic Flutter application. 
+I will write the description of this application,, soon. 
+
 
 
 
